@@ -16,3 +16,15 @@ Tech Stack:
 Languages: JavaScript, HTML, CSS
 API Integration: Mediastack API 
 Browser: Google Chrome
+
+Project Video:
+
+https://github.com/user-attachments/assets/bfdc7f05-5a42-4762-87f1-d0f91f2cd516
+
+Project image:
+![photo1](https://github.com/user-attachments/assets/1a04bc86-d672-4cd8-8027-e949ba5b7af1)
+
+![photo2](https://github.com/user-attachments/assets/41845446-6aa8-483c-aeba-20f98473b940)
+
+
+
